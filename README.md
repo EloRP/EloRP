@@ -1,4 +1,10 @@
-## Hi there 👋
+## Welcome! 🤠
+
+My name is Eloy. I'm a fullstack junior dev based in Galicia, Spain <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/>. 
+
+I am graduated in both DAM (Multi-platform App Development) and DAW (Web App Development).
+
+
 
 <!--
 **EloRP/EloRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
